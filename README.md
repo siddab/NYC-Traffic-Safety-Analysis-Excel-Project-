@@ -18,13 +18,6 @@ Analyzed NYC motor vehicle collision data (Jan 2021 – Apr 2023) to uncover sea
 - Identified top 10 causes of collisions
 - Calculated % of dangerous collisions (involving injury/fatality)
 - Used data bars for visual impact
-
----
-
-## 📁 Files Included
-- `w.xlsx` – Contains all pivot tables and analysis
-- `README.md` – You're reading it!
-
 ---
 
 ## 🔧 Tools Used
